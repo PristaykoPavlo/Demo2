@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26228.9
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo2Pristayko", "Demo2Pristayko\Demo2Pristayko.csproj", "{9E06C946-7685-45CB-B773-DCCF0C116E39}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fruit", "Fruit\Fruit.csproj", "{E4217128-B64F-425A-BD6D-54661636A557}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestClass", "TestClass\TestClass.csproj", "{48723A81-9DDD-438D-A262-9B62C4642E22}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9E06C946-7685-45CB-B773-DCCF0C116E39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E06C946-7685-45CB-B773-DCCF0C116E39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E06C946-7685-45CB-B773-DCCF0C116E39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E06C946-7685-45CB-B773-DCCF0C116E39}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4217128-B64F-425A-BD6D-54661636A557}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4217128-B64F-425A-BD6D-54661636A557}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4217128-B64F-425A-BD6D-54661636A557}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4217128-B64F-425A-BD6D-54661636A557}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48723A81-9DDD-438D-A262-9B62C4642E22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48723A81-9DDD-438D-A262-9B62C4642E22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48723A81-9DDD-438D-A262-9B62C4642E22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48723A81-9DDD-438D-A262-9B62C4642E22}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9788FAD6-C11D-4A24-8730-B2FF383F23B0}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,5 @@
+Apple : green
+Avokado : green
+Banana : yellow
+Cherry : red
+Citrus : yellow
